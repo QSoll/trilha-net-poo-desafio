@@ -35,12 +35,6 @@ Incompatibilidade encontrada. Não instalado: Nokia: Facetime
 
 Desenvolvido por Sol Morcillo 💛
 
-
-## ✨ Crédits
-
-**Desenvolvido por:** _Sol Morcillo_ 💛  
-Este projeto é uma demonstração criativa e educacional que une lógica com personalização visual.
-
 ----------------------------------------------------------------------
 
 Curtiu o projeto? 
