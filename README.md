@@ -43,7 +43,7 @@ Sinta-se à vontade para aprimorar com mais modelos ou recursos visuais como bar
 
 Até mais !!!
 
-<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="110px">
+<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="130px">
 
 ---------------------------------------------------------------------
 
