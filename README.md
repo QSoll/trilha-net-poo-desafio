@@ -43,11 +43,11 @@ Sinta-se à vontade para aprimorar com mais modelos ou recursos visuais como bar
 
 Até mais !!!
 
-<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="50px" height="60px">
+<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="110px">
 
 ---------------------------------------------------------------------
 
-<img src="https://solmorcillo.com.br/imgs_public/logo_wex.jpg" width="55px" height="35px"> e <img src="https://solmorcillo.com.br/imgs_public/logo_dio.jpg" width="55px" height="35px"> - Trilha .NET - Programação orientada a objetos
+<img src="https://solmorcillo.com.br/imgs_public/logo_wex.jpg" width="55px" height="35px"> e <img src="https://solmorcillo.com.br/imgs_public/logo_dio.jpg" width="60px" height="40px"> - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
 ## Desafio de projeto
