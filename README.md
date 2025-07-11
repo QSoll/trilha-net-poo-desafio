@@ -1,4 +1,59 @@
-# DIO - Trilha .NET - Programação orientada a objetos
+## Simulador - Instalação de App por Modelo de Celular
+
+Este projeto em C# simula a instalação de aplicativos em diferentes modelos de celular.
+
+Exemplos usados: **Nokia** e **iPhone**
+
+## Funcionalidades
+
+- Identificação de modelo e aplicativos a instalar
+- Verificação de compatibilidade
+- Relatório visual de apps instalados e rejeitados
+- Tela final estilizada com animação de assinatura 💛
+
+## Tecnologias utilizadas
+
+- C# com .NET Core/Framework
+- Uso de `Dictionary<string, List<string>>` para organização dos dados
+- Animação com `Thread.Sleep()` para efeitos de terminal
+- Manipulação de cores no console (`ConsoleColor`)
+- Escrita centralizada no terminal via método personalizado `CenteredWrite`
+
+Saída final no terminal:
+Data: 10/07/2025 - Hora: 22:17:00
+
+Iniciando instalação de aplicativos no Nokia...
+Instalando WhatsApp... concluído.
+Instalando Telegram... concluído.
+Instalando Nokia 1280 Launcher... concluído.
+Instalando Facetime... concluído.
+Finalizando...
+
+Instalação realizada Nokia: WhatsApp, Telegram, Nokia 1280 Launcher
+
+Incompatibilidade encontrada. Não instalado: Nokia: Facetime
+
+Desenvolvido por Sol Morcillo 💛
+
+
+## ✨ Crédits
+
+**Desenvolvido por:** _Sol Morcillo_ 💛  
+Este projeto é uma demonstração criativa e educacional que une lógica com personalização visual.
+
+----------------------------------------------------------------------
+
+Curtiu o projeto? 
+
+Sinta-se à vontade para aprimorar com mais modelos ou recursos visuais como barra de progresso ou sons! 
+
+Até mais !!!
+
+<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="50px" height="60px">
+
+---------------------------------------------------------------------
+
+<img src="https://solmorcillo.com.br/imgs_public/logo_wex.jpg" width="55px" height="35px"> e <img src="https://solmorcillo.com.br/imgs_public/logo_dio.jpg" width="55px" height="35px"> - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
 ## Desafio de projeto

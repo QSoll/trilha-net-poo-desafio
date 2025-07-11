@@ -1,14 +1,31 @@
+using System;
+using System.Reflection.PortableExecutable;
+using DesafioPOO.Models;
+
 namespace DesafioPOO.Models
 {
     public abstract class Smartphone
     {
-        public string Numero { get; set; }
-        // TODO: Implementar as propriedades faltantes de acordo com o diagrama
+        public int CodigoPais { get; set; }
+        public int CodigoArea { get; set; }
+        public string NumeroCelular { get; set; }
+        public string Modelo { get; set; }
+        public string IMEI { get; private set; }
 
-        public Smartphone(string numero)
+        public int Memoria { get; set; }
+        public string UnidadeDeMedida { get; set; }
+
+        public Smartphone(int codigoPais, int codigoArea, string numeroCelular, string modelo, string imei, int memoria, string unidadeDeMedida)
         {
-            Numero = numero;
-            // TODO: Passar os parâmetros do construtor para as propriedades
+            CodigoPais = codigoPais;
+            CodigoArea = codigoArea;
+            NumeroCelular = numeroCelular;
+            Modelo = modelo;
+            IMEI = imei;
+            Memoria = memoria;
+            UnidadeDeMedida = unidadeDeMedida;
+
+            // Parâmetros do construtor para as propriedades
         }
 
         public void Ligar()
@@ -22,5 +39,15 @@ namespace DesafioPOO.Models
         }
 
         public abstract void InstalarAplicativo(string nomeApp);
+
+        public string ObterNumeroFormatado()
+        {
+            return $"+{CodigoPais} ({CodigoArea}) {NumeroCelular}";
+        }
+
+        protected List<string> AppsComuns => new() { "WhatsApp", "Telegram" };
+
+
+
     }
 }
