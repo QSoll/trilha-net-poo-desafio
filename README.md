@@ -9,7 +9,7 @@ Exemplos usados: **Nokia** e **iPhone**
 - Identificação de modelo e aplicativos a instalar
 - Verificação de compatibilidade
 - Relatório visual de apps instalados e rejeitados
-- Tela final estilizada com animação de assinatura 💛
+- Tela final estilizada com animação de 💛 assinatura 💛
 
 ## Tecnologias utilizadas
 
@@ -20,7 +20,7 @@ Exemplos usados: **Nokia** e **iPhone**
 - Escrita centralizada no terminal via método personalizado `CenteredWrite`
 
 Saída final no terminal:
-Data: 10/07/2025 - Hora: 22:17:00
+Data e Hora
 
 Iniciando instalação de aplicativos no Nokia...
 Instalando WhatsApp... concluído.
@@ -33,7 +33,7 @@ Instalação realizada Nokia: WhatsApp, Telegram, Nokia 1280 Launcher
 
 Incompatibilidade encontrada. Não instalado: Nokia: Facetime
 
-Desenvolvido por Sol Morcillo 💛
+💛 Desenvolvido por Sol Morcillo 💛
 
 ----------------------------------------------------------------------
 
